@@ -1,0 +1,13 @@
+C:\Users\sdqali\Documents\Win8Projects\DefineStuff\DefineStuff\bin\Debug\resources.pri
+C:\Users\sdqali\Documents\Win8Projects\DefineStuff\DefineStuff\bin\Debug\AppxManifest.xml
+C:\Users\sdqali\Documents\Win8Projects\DefineStuff\DefineStuff\bin\Debug\DefineStuff.build.appxrecipe
+C:\Users\sdqali\Documents\Win8Projects\DefineStuff\DefineStuff\bld\Debug\priconfig.xml.intermediate
+C:\Users\sdqali\Documents\Win8Projects\DefineStuff\DefineStuff\bld\Debug\layout.resfiles.intermediate
+C:\Users\sdqali\Documents\Win8Projects\DefineStuff\DefineStuff\bld\Debug\resources.resfiles.intermediate
+C:\Users\sdqali\Documents\Win8Projects\DefineStuff\DefineStuff\bld\Debug\pri.resfiles.intermediate
+C:\Users\sdqali\Documents\Win8Projects\DefineStuff\DefineStuff\bld\Debug\priconfig.xml
+C:\Users\sdqali\Documents\Win8Projects\DefineStuff\DefineStuff\bld\Debug\layout.resfiles
+C:\Users\sdqali\Documents\Win8Projects\DefineStuff\DefineStuff\bld\Debug\resources.resfiles
+C:\Users\sdqali\Documents\Win8Projects\DefineStuff\DefineStuff\bld\Debug\pri.resfiles
+C:\Users\sdqali\Documents\Win8Projects\DefineStuff\DefineStuff\bld\Debug\LanguageQualifiers.txt
+C:\Users\sdqali\Documents\Win8Projects\DefineStuff\DefineStuff\bld\Debug\ProjectArchitectures.txt
